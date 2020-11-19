@@ -1,0 +1,12 @@
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.exe
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.deps.json
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.runtimeconfig.json
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.runtimeconfig.dev.json
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.dll
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\bin\Debug\netcoreapp3.1\DirectDirectory.pdb
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.AssemblyInfo.cs
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.csproj.CoreCompileInputs.cache
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.dll
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.pdb
+C:\Users\mammu\source\repos\DirectDirectory\DirectDirectory\obj\Debug\netcoreapp3.1\DirectDirectory.genruntimeconfig.cache
